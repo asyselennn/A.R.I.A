@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+data/aria_memory.json
+data/aria_history.json
+data/aria.log
+.vscode/
